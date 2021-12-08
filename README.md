@@ -12,3 +12,6 @@ MapKeyboard 2.1
 
 ## window上高仿alfred
 Install WGestures 1.8.4.0
+
+## window上的键位映射（代替快捷键）
+williamyorkl_Mac_Custom.ahk
