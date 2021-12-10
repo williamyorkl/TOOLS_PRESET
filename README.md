@@ -18,3 +18,8 @@ https://github.com/williamyorkl/TOOLS_PRESET/blob/main/williamyorkl_Mac_Custom.a
 
 ## vs code快捷键
 https://github.com/williamyorkl/TOOLS_PRESET/blob/main/vscode_shortcut.json
+
+## vs code 主题配置定制
+1. mac vscode插件位置 : User/（你的用户名）/.vscode/extensions
+2. 主题文件夹目录下的 onedark/theme/onedark.json
+3. 主要修改的字段: tab.activeBackground: "#528BFF" (被选中 tab 的背景色)
