@@ -23,3 +23,11 @@ https://github.com/williamyorkl/TOOLS_PRESET/blob/main/vscode_shortcut.json
 1. mac vscode插件位置 : User/（你的用户名）/.vscode/extensions
 2. 主题文件夹目录下的 onedark/theme/onedark.json
 3. 主要修改的字段: tab.activeBackground: "#528BFF" (被选中 tab 的背景色)
+
+## pycharm插件 + 配置
+
+1.配置
+https://github.com/williamyorkl/TOOLS_PRESET/blob/main/pycharm_settings.zip
+
+2. 插件
+![image](https://user-images.githubusercontent.com/51230385/146282641-fd7ed18b-446c-41ac-a474-d7bef140ef55.png)
