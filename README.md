@@ -36,3 +36,7 @@ https://github.com/williamyorkl/TOOLS_PRESET/blob/main/pycharm_settings.zip
 ## alfred 插件
 1. ip 地址
 https://github.com/alexchantastic/alfred-ip-address-workflow/releases/tag/v1.1.1
+
+
+## host mac
+https://github.com/oldj/SwitchHosts
