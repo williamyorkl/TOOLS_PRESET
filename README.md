@@ -1,6 +1,9 @@
 # TOOLS_PRESET
 各种工具类的预设
 
+## window映射mac开发习惯配置
+https://www.yuque.com/putongshiminliangxiansheng/wk4ldi/bn0fz7
+
 ## betterTouchTool
 
 ## vs code快捷键
