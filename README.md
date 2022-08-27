@@ -5,6 +5,9 @@
 https://www.yuque.com/putongshiminliangxiansheng/wk4ldi/bn0fz7
 
 ## betterTouchTool
+./better_touch_tool/*
+链接: https://pan.baidu.com/s/16aH9K7TTLSQcy6i3xlVeRQ 提取码: 68l1
+
 
 ## vs code快捷键
 
